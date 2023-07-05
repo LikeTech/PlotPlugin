@@ -15,10 +15,10 @@ Commands:
 			- ......<br/>
 				- ...<br/>
 - /plotwand - gives you a plotwand of a specified type<br/>
-	- SMALL<br/>
+  - SMALL<br/>
   - MEDIUM<br/>
-	- LARGE<br/>
- 	- INFINITE<br/>
+  - LARGE<br/>
+  - INFINITE<br/>
 - /plot - variety of arguments that do different things<br/>
 	- DEFINE - lets you define a plot<br/>
 		- name - write the name of the plot<br/>
