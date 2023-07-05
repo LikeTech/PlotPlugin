@@ -1,4 +1,4 @@
-Note: This is an alpha version.
+Note: This is an alpha version.<br/>
 Wands:<br/>
 - Small: You can select up to 12x12 plot<br/>
 - Medium: You can select up to 24x24 plot<br/>
